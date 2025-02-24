@@ -1,0 +1,3 @@
+Index,Time stamp,start position seconds,start in microsecond,Minutes of consultation,consultation in microseconds,ParticipantID,starttobii,endtobii,ActionStart,ActionEnd,starttobii_HMS,endtobii_HMS
+23.0,06/02/2024 15:53,0.0,0.0,1.9194,115164000,P24_03,141407484.0,257214542.0,play,pause,01:02:21.407484,01:04:17.214542
+24.0,06/02/2024 15:59,115.195749,115195749.0,5.3977,323862000,P24_03,307182355.0,632000000.0,play,,01:05:07.182355,01:10:32
